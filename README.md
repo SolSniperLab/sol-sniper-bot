@@ -19,7 +19,7 @@ To run the script you need to:
 1. Create a new empty Solana wallet.
 2. Transfer some SOL to it.
 3. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration set below).
-4. Download and extract the repository files: Use the command "git clone https://github.com/MemeLabSniper/sol-sniper-bot" or click the green "Code" button and select "Download ZIP".
+4. Download and extract the repository files: Use the command "git clone https://github.com/SolSniperLab/sol-sniper-bot" or click the green "Code" button and select "Download ZIP".
 5. Install the Node.js environment on your computer : https://nodejs.org/en
 6. The runtime environment should be a terminal or VSCode. Detailed steps are provided below, please read carefully.
 
