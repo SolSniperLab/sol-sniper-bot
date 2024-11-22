@@ -49,7 +49,7 @@ To run the script you need to:
 
 ![](https://github.com/SolSniperLab/sol-sniper-bot/blob/b37a2fec33bffa000f49a47239270085fea14eaf/readme/bird.png)
 
-![](https://github.com/SolSniperLab/sol-sniper-bot/blob/b37a2fec33bffa000f49a47239270085fea14eaf/readme/env.png)
+![](https://github.com/SolSniperLab/sol-sniper-bot/blob/ebc668d0b63204e3a211b8ac7a970902107a6d91/readme/botenv.png)
   
 ## INSTALL
 1. Install dependencies by typing: `npm install`
