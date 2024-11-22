@@ -121,7 +121,7 @@ The program has undergone multiple audits and tests, demonstrating strong profit
 
 Discord: `@solmemelab`
 
-Support this project: memEdkF7QXdX5v66rReZdnUNhANUCpwwWqkn3uQEA1A
+Support this project: `memEdkF7QXdX5v66rReZdnUNhANUCpwwWqkn3uQEA1A`
 
 ## DISCLAIMER
 
